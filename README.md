@@ -22,3 +22,8 @@ Ecoleta é um projeto desenvolvido durante a semana **Next Level Week 1.0** que 
 <h1 align="center">
   <img src="https://ik.imagekit.io/alexandroabade/LaunchBase-modal_sBI7iZuDl.png">
 </h1>
+
+### 🗑️ Ponto de Coleta
+<h1 align="center">
+  <img src="https://ik.imagekit.io/alexandroabade/Screenshot_sB38Y-5yH.png">
+</h1>
